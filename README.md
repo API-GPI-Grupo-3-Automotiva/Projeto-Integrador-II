@@ -1,5 +1,7 @@
 # Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a "Proatividade, Autonomia, Colaboração e Entrega de Resultados dos Estudantes Envolvidos".
 
+<img width="1906" height="1043" alt="Captura de tela 2026-06-08 181558" src="https://github.com/user-attachments/assets/1532af9b-5e8c-4655-a216-5a1836985a7f" />
+
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Automotiva
 
 # Índice
