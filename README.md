@@ -47,6 +47,9 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 
 
 # Product Backlog
+<img width="2220" height="1108" alt="image" src="https://github.com/user-attachments/assets/afb6d9fe-d56e-4471-a5f4-ea9cc76c2437" />
+
+
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
