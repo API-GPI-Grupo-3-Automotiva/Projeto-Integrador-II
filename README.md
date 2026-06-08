@@ -2,6 +2,10 @@
 
 <img width="1906" height="1043" alt="Captura de tela 2026-06-08 181558" src="https://github.com/user-attachments/assets/1532af9b-5e8c-4655-a216-5a1836985a7f" />
 
+> Link Dashboard cadeia Automotiva
+
+https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Automotiva
 
 # Índice
