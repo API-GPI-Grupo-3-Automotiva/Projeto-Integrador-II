@@ -15,7 +15,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
-
 # Projeto (API)
  
 Projeto pedagógico alicerçado na metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -34,9 +33,9 @@ Os resultados dos projetos devem obedecer ao aviso legal disponível no site da 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiva Automotiva".
 * Analisar dados abertos do governo RAIS (https://share.google/A18rupGkXk7Fj6hOj).
-* Analisar a cidade de São José dos Campos. 
+* Analisar a cidade de São José dos Campos.
+* Foco na General Motors (SJC).
 * Indicar valores crescimento econômico atráves de dados crontratação e investimento.
-
 
 ## Tecnologias Utilizadas
 
@@ -53,27 +52,12 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 # Product Backlog
 <img width="2220" height="1108" alt="image" src="https://github.com/user-attachments/assets/afb6d9fe-d56e-4471-a5f4-ea9cc76c2437" />
 
-
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       |                                                     | 5          | 1      |
-| 2    | Alta       |                                                     | 8          | 1      |
-| 3    | Alta       |                                                     | 5          | 2      |
-| ...  | Média      |                                                     | ...        | ...    |
-| 17   | Baixa      |                                                     | 2          | 3      |
-
-
-
-
-
-  
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 30/03/2026 | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | 27/04/2026 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 01                | 30/03/2026 | não teve  | [MVP](MVP/sp1.md)  |
+| 02                | 11/05/2026 | OK  | [MVP](MVP/sp2.md)  |
+| 03                | 08/06/2026 | OK  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
