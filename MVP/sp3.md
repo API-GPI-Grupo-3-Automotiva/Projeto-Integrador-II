@@ -1,65 +1,70 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Impactos da Indústria 4.0 no RH da GM
 
+- Foco: A análise final das movimentações internas da montadora.
+- 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Descrever de forma clara qual é o propósito do MVP:
+
+- Qual problema resolve? A falta de dados concretos sobre como a transição tecnológica afeta o trabalhador de chão de fábrica.
+
+- Qual hipótese será validada? A hipótese de que a automação gera um alto déficit de contratações (downsizing) e requer readequação via PDV.
+ 
+- Qual valor será entregue? Gráfico de rosca detalhando os tipos de saídas (Demissões, PDV, Canceladas) validando o impacto social da Indústria 4.0.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+
+- Funcionalidades: Dashboard focado em métricas de RH com filtro temporal (Anos).
+ 
+- Limitações: Dados restritos à unidade da General Motors em SJC.
+  
+- Escopo: Consolidação final do painel para a apresentação do Projeto Integrador. 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+- Persona 1: Gestor de Recursos Humanos avaliando estratégias de retenção e desligamento. 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US3 | Como gestor, quero um gráfico de movimentações para entender o impacto do PDV.         | Alta       | 5 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dashboard de RH GM SJC e Relatório Final                        | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
+- O sistema deve evidenciar a proporção de 6 desligamentos para cada 1 contratação.
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+
+- Indicadores de negócio: 41,73% de saídas via PDV. 
+
+- Aprovação final do projeto pelos professores avaliadores.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+
+Elaborar a apresentação do projeto em inglês (API) para expansão acadêmica.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+> Print: "Dashboard de RH: Movimentações e Estratégia de PDV na GM SJC".
+
+<img width="881" height="479" alt="image" src="https://github.com/user-attachments/assets/95ba26a8-39aa-44f2-8a94-4841ab8cc387" />
+
