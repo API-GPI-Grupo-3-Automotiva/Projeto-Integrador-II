@@ -1,7 +1,7 @@
 # 🏭 Projeto Integrador: Indústria 4.0 na GM São José dos Campos
 ---
 # Índice
-* [Sobre o Projeto](#Sobre-o-Projeto)
+* [Sobre o Projeto](#-📋-Sobre-o-Projeto)
 * [Equipe](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
