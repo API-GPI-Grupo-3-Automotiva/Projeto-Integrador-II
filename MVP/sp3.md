@@ -1,7 +1,6 @@
 # 📌 MVP - Impactos da Indústria 4.0 no RH da GM
 
 - Foco: A análise final das movimentações internas da montadora.
-
 ## 🎯 Objetivo do MVP
 
 > Descrever de forma clara qual é o propósito do MVP:
