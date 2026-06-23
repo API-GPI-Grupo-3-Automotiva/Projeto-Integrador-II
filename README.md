@@ -24,7 +24,7 @@ Este projeto analisa a maturidade tecnológica e operacional da planta da Genera
 
 O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de SJC com as cidades vizinhas da RM Vale) e diagnostica os profundos impactos socioeconômicos gerados pela automação, especialmente na **Gestão de Recursos Humanos**, evidenciando a substituição de postos operacionais braçais por mão de obra técnica especializada.
 ---
-# 👥 Equipe do Projeto
+# Equipe do Projeto
 
 | Funçao | Nome | LinkedIn & GitHub |
 |-------- | ----- |:--------------------: |
@@ -38,7 +38,7 @@ O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de S
 ---
 - Prof. Esp. Rubens Barreto da Silva e Prof. Esp. Marcus Vinícius do Nascimento.
 ---
-# 🛠️ Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 - **Bases de Dados Governamentais:** RAIS (Ministério do Trabalho) e Comex Stat (MDIC)
 - **Extração e Tratamento de Dados (ETL):** Python (Google Colab)
@@ -48,7 +48,7 @@ O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de S
 
 ---
 
-# 🚀 Entregas (MVPs)
+# Entregas (MVPs)
 
 O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
@@ -58,7 +58,7 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 ---
 
-# 📊 Principais Insights e Resultados
+# Principais Insights e Resultados
 
 * **Reestruturação e Downsizing (6:1):** Os dados de movimentação de RH revelaram um déficit operacional severo durante a transição tecnológica, registrando **6 desligamentos para cada 1 contratação**.
 * **Estratégia de Saída (PDV):** A principal ferramenta de adequação do quadro foi o PDV, representando **41,73%** de todas as saídas no período analisado.
