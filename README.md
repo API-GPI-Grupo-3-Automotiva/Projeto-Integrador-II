@@ -37,7 +37,7 @@ O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de S
 ---
 # Orientadores:
 ---
-**Prof. Esp. Rubens Barreto da Silva e Prof. Esp. Marcus Vinícius do Nascimento.**
+* **Prof. Esp. Rubens Barreto da Silva e Prof. Esp. Marcus Vinícius do Nascimento.**
 
 ---
 # Tecnologias e Ferramentas
