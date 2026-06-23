@@ -8,6 +8,7 @@
 * [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
+* [Dashboard](#Dashboard-Cadeia-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,6 +73,13 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 <img width="2220" height="1108" alt="image" src="https://github.com/user-attachments/assets/afb6d9fe-d56e-4471-a5f4-ea9cc76c2437" />
 
 ---
+# Dashboard Cadeia Produtiva Automotiva
+
+<img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/8c4b0325-a6e7-4834-837b-916c45284412" />
+
+> LINK
+
+https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 # Registro das Sprints
 
