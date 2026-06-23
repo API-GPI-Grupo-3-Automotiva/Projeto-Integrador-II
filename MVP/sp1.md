@@ -1,65 +1,59 @@
-# 📌 MVP - [Nome do Projeto]
-
+# 📌 MVP - Visão Macroeconômica e Estrutura Geral
+- Foco: O panorama estadual versus São José dos Campos.
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Descrever de forma clara qual é o propósito do MVP:
+ 
+- Qual problema resolve? A falta de visualização clara do peso de São José dos Campos na base de empregos do Estado de São Paulo.
+
+- Qual hipótese será validada? Validar que SJC possui uma vocação industrial acima da média estadual.
+
+
+- Qual valor será entregue? Um dashboard interativo com os KPIs iniciais (estabelecimentos e vínculos) extraídos da base RAIS.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+
+- Funcionalidades: Painel no Power BI com cartões de KPIs macroeconômicos e gráficos de vínculos por CNAE.  Limitações: Visão geral do mercado, ainda sem aprofundar na cadeia automotiva específica.Escopo: Tratamento de dados no Google Colab (Python) e importação inicial para o Power BI.  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+- Persona 1: Pesquisador Acadêmico buscando entender o panorama de empregabilidade geral de SJC 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1  | Como pesquisador, quero visualizar os vínculos totais por cidade para comparar SJC com o Estado.       | Alta       | 5 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | ETL em Python e Dashboard Macroeconômico                        | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O sistema deve registrar o total de 14,08 Mi vínculos em SP e 206,72 mil em SJC.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Aprovação técnica da fórmula DAX e da integridade dos dados extraídos da RAIS
+ 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+
+- Filtrar os dados especificamente para o setor Automotivo. 
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+> Print: "Dashboard Macroeconômico: Proporção SP vs. SJC"
+<img width="945" height="521" alt="image" src="https://github.com/user-attachments/assets/c548be86-b6ab-465a-8a3e-ce47583bd260" />
