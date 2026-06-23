@@ -86,9 +86,9 @@ https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 30/03/2026 | não teve  | [MVP](MVP/sp1.md)  |
-| 02                | 11/05/2026 | OK  | [MVP](MVP/sp2.md)  |
-| 03                | 08/06/2026 | OK  | [MVP](MVP/sp3.md)  |
+| 01                | 30/03/2026 | Concuído  | [MVP](MVP/sp1.md)  |
+| 02                | 11/05/2026 | Concuído  | [MVP](MVP/sp2.md)  |
+| 03                | 08/06/2026 | Concuído  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 25/06/2026 | a fazer  | [MVP](#)  |
 
 ---
