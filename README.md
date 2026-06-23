@@ -5,7 +5,7 @@
 * [Equipe](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
-* [Entregas (MVPs)](#Entregas-MVPs)
+* [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
 * [Registro das Sprints](#Registro-das-Sprints)
