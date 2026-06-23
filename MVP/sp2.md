@@ -64,5 +64,6 @@
 ## 📂 Anexos / Evidências
 
 > Prints: "Vínculos do Setor Automotivo: Estado vs. Bloco RM Vale"
-<img width="827" height="455" alt="image" src="https://github.com/user-attachments/assets/9d2c2e40-0ece-4325-91b4-f250d38db58d" />
+<img width="839" height="460" alt="image" src="https://github.com/user-attachments/assets/50f8e575-3f47-49ac-9791-3da51075ae51" />
+
 
