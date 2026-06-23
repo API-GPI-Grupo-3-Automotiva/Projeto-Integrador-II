@@ -8,7 +8,7 @@
 * [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
-* [Dashboard](#Dashboard-Cadeia-Automotiva)
+* [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
