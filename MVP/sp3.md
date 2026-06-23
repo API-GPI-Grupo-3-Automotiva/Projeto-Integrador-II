@@ -1,8 +1,9 @@
 # 📌 MVP - Impactos da Indústria 4.0 no RH da GM
 
 - Foco: A análise final das movimentações internas da montadora.
-- 
+
 ## 🎯 Objetivo do MVP
+
 > Descrever de forma clara qual é o propósito do MVP:
 
 - Qual problema resolve? A falta de dados concretos sobre como a transição tecnológica afeta o trabalhador de chão de fábrica.
@@ -67,4 +68,3 @@ Elaborar a apresentação do projeto em inglês (API) para expansão acadêmica.
 > Print: "Dashboard de RH: Movimentações e Estratégia de PDV na GM SJC".
 
 <img width="881" height="479" alt="image" src="https://github.com/user-attachments/assets/95ba26a8-39aa-44f2-8a94-4841ab8cc387" />
-
