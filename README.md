@@ -1,7 +1,7 @@
 # 🏭 Projeto Integrador: Indústria 4.0 na GM São José dos Campos
 ---
 # Índice
-* [Sobre o Projeto](#-📋-Sobre-o-Projeto)
+* [Sobre o Projeto](#Sobre-o-Projeto)
 * [Equipe](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
@@ -18,7 +18,7 @@
 
 ---
 
-# 📋 Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto analisa a maturidade tecnológica e operacional da planta da General Motors (GM) em São José dos Campos (SJC), focando em sua transição para a **Indústria 4.0** sob um modelo de infraestrutura *Brownfield*. 
 
