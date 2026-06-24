@@ -90,6 +90,8 @@ https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?us
 
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
 
+https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
 # Relatório Cadeia Produtiva Automotiva
 
 > LINK
@@ -97,7 +99,7 @@ https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?us
 https://docs.google.com/document/d/1yti-IyhSUPAoZTDnc1H61YdsCE8rEj0T/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
 
 
-https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
 
 # Registro das Sprints
 
