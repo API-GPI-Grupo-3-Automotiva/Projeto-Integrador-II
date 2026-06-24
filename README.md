@@ -10,6 +10,7 @@
 * [Backlog do produto](#Product-Backlog)
 * [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
 * [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
+* [Relatório Cadeia Produtiva Automotiva](#Relatório-Cadeia-Produtiva-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,8 +87,14 @@ https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?us
 # Dashboard Cadeia Produtiva Automotiva
 
 > LINK
-> 
+
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
+
+# Relatório Cadeia Produtiva Automotiva
+
+> LINK
+
+https://docs.google.com/document/d/1yti-IyhSUPAoZTDnc1H61YdsCE8rEj0T/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
 
 
 https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
