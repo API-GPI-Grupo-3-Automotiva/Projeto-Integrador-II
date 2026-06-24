@@ -94,6 +94,8 @@ https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y
 
 # Relatório Cadeia Produtiva Automotiva
 
+<img width="554" height="785" alt="image" src="https://github.com/user-attachments/assets/83233abd-fefe-481f-a6e0-5c38eb031f76" />
+
 > LINK
 
 https://docs.google.com/document/d/1yti-IyhSUPAoZTDnc1H61YdsCE8rEj0T/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
