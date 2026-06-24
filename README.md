@@ -79,8 +79,14 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 <img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/8c4b0325-a6e7-4834-837b-916c45284412" />
 
-# Dashboard Cadeia Produtiva Automotiva
 > LINK
+
+https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
+
+# Dashboard Cadeia Produtiva Automotiva
+
+> LINK
+> 
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
 
 
