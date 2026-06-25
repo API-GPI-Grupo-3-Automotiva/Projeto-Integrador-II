@@ -114,7 +114,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 
 > LINK
 
-https://docs.google.com/document/d/1yti-IyhSUPAoZTDnc1H61YdsCE8rEj0T/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/Atualizado-%20RELATORIO%20PROJETO%20INTEGRADOR%202%20SEM%20(1).docx
 
 ---
 
