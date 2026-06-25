@@ -80,7 +80,7 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 # Tratamento de Dados (Python/Colab)
 
-<img width="292" height="711" alt="image" src="https://github.com/user-attachments/assets/59ab639b-5944-466d-bc92-4d0ec41851f0" />
+<img width="773" height="817" alt="image" src="https://github.com/user-attachments/assets/0edf5335-9ecf-4a18-a592-b676e84b5b2a" />
 
 > LINK
 
