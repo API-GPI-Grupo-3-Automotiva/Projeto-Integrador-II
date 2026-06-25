@@ -8,7 +8,7 @@
 * [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
-* [Tratamento de Dados Python Colab](#Tratamento-de-Dados-Python-Colab)
+* [Tratamento de Dados Python e Colab](#Tratamento-de-Dados-Python-e-Colab)
 * [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
 * [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
 * [Relatório Cadeia Produtiva Automotiva](#Relatório-Cadeia-Produtiva-Automotiva)
@@ -78,7 +78,7 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 ---
 
-# Tratamento de Dados Python Colab
+# Tratamento de Dados Python e Colab
 
 <img width="773" height="817" alt="image" src="https://github.com/user-attachments/assets/0edf5335-9ecf-4a18-a592-b676e84b5b2a" />
 
