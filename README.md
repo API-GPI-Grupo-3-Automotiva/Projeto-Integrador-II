@@ -8,8 +8,9 @@
 * [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
-* [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
+* [Dashboard](#Tratamento-de-Dados-(Python/Colab))
 * [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
+* [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
 * [Relatório Cadeia Produtiva Automotiva](#Relatório-Cadeia-Produtiva-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
@@ -76,13 +77,16 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 <img width="2220" height="1108" alt="image" src="https://github.com/user-attachments/assets/afb6d9fe-d56e-4471-a5f4-ea9cc76c2437" />
 
 ---
-# Apresentação Cadeia Produtiva Automotiva
 
-<img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/8c4b0325-a6e7-4834-837b-916c45284412" />
+# Tratamento de Dados (Python/Colab)
+
+<img width="292" height="711" alt="image" src="https://github.com/user-attachments/assets/59ab639b-5944-466d-bc92-4d0ec41851f0" />
 
 > LINK
 
-https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
+https://colab.research.google.com/drive/1wDIjNMHTtSzE7W9wpX8TXQm6SEkKihD-?usp=sharing
+
+---
 
 # Dashboard Cadeia Produtiva Automotiva
 
@@ -92,6 +96,18 @@ https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?us
 
 https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
+---
+
+# Apresentação Cadeia Produtiva Automotiva
+
+<img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/8c4b0325-a6e7-4834-837b-916c45284412" />
+
+> LINK
+
+https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
+
+---
+
 # Relatório Cadeia Produtiva Automotiva
 
 <img width="554" height="785" alt="image" src="https://github.com/user-attachments/assets/83233abd-fefe-481f-a6e0-5c38eb031f76" />
@@ -100,6 +116,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y
 
 https://docs.google.com/document/d/1yti-IyhSUPAoZTDnc1H61YdsCE8rEj0T/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
 
+---
 
 
 
