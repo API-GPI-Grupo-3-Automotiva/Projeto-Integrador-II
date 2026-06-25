@@ -8,7 +8,7 @@
 * [Entregas MVPs](#Entregas-MVPs)
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
-* [Tratamento de Dados (Python/Colab)](#Tratamento-de-Dados-Python/Colab)
+* [Tratamento de Dados (Python/Colab)](#Tratamento-de-Dados-Python-Colab)
 * [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
 * [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
 * [Relatório Cadeia Produtiva Automotiva](#Relatório-Cadeia-Produtiva-Automotiva)
