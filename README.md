@@ -90,9 +90,9 @@ https://colab.research.google.com/drive/1wDIjNMHTtSzE7W9wpX8TXQm6SEkKihD-?usp=sh
 
 # Dashboard Cadeia Produtiva Automotiva
 
-> LINK
-
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
+
+> LINK
 
 https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
