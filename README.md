@@ -104,7 +104,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y
 
 > LINK
 
-https://docs.google.com/presentation/d/12hFJgBaRzde-WbfI6i5FVbJVZZoWsxVI/edit?usp=sharing&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/SPRINT%203%20DEFINITIVA%20CADEIA%20PRODUTIVA%20AUTOMOTIVA%20GM%2008_06_26%20(1).pdf
 
 ---
 
