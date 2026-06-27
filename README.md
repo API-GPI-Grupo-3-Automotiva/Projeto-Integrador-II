@@ -10,7 +10,7 @@
 * [Principais Insights e Resultados](#Principais-Insights-e-Resultados)
 * [Backlog do produto](#Product-Backlog)
 * [Tratamento de Dados Python e Colab](#Tratamento-de-Dados-Python-e-Colab)
-* [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
+* [Visualização Dashboard](#Visualização-Dashboard-Cadeia-Produtiva-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,7 +105,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 
 ---
 
-# Dashboard Cadeia Produtiva Automotiva
+# Vizualização Dashboard Cadeia Produtiva Automotiva
 
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
 
