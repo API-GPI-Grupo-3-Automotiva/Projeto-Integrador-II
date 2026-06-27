@@ -105,7 +105,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 
 ---
 
-# Vizualização Dashboard Cadeia Produtiva Automotiva
+# Visualização Dashboard Cadeia Produtiva Automotiva
 
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
 
