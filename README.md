@@ -10,8 +10,6 @@
 * [Backlog do produto](#Product-Backlog)
 * [Tratamento de Dados Python e Colab](#Tratamento-de-Dados-Python-e-Colab)
 * [Dashboard](#Dashboard-Cadeia-Produtiva-Automotiva)
-* [Apresentação Cadeia Produtiva Automotiva](#Apresentação-Cadeia-Produtiva-Automotiva)
-* [Relatório Cadeia Produtiva Automotiva](#Relatório-Cadeia-Produtiva-Automotiva)
 * [Registro das Sprints](#Registro-das-Sprints)
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,33 +108,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 
 <img width="1447" height="810" alt="Panorama geral" src="https://github.com/user-attachments/assets/87099117-bf19-4c22-9af8-b2444f4a8de5" />
 
-> LINK
-
-https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
-
 ---
-
-# Apresentação Cadeia Produtiva Automotiva
-
-<img width="1414" height="796" alt="image" src="https://github.com/user-attachments/assets/8c4b0325-a6e7-4834-837b-916c45284412" />
-
-> LINK
-
-https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/SPRINT%203%20DEFINITIVA%20CADEIA%20PRODUTIVA%20AUTOMOTIVA%20GM%2008_06_26%20(1).pdf
-
----
-
-# Relatório Cadeia Produtiva Automotiva
-
-<img width="554" height="785" alt="image" src="https://github.com/user-attachments/assets/83233abd-fefe-481f-a6e0-5c38eb031f76" />
-
-> LINK
-
-https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/Atualizado-%20RELATORIO%20PROJETO%20INTEGRADOR%202%20SEM%20(1).pdf
-
----
-
-
 
 # Registro das Sprints
 
