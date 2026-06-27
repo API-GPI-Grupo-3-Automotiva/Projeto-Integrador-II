@@ -2,6 +2,7 @@
 ---
 # Índice
 * [Sobre o Projeto](#Sobre-o-Projeto)
+* [Acesso Rápido ao Projeto](#Acesso-Rápido-ao-Projeto)
 * [Equipe](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
