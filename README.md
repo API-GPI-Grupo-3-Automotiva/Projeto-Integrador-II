@@ -42,7 +42,7 @@ Para garantir uma melhor experiência e contornar as limitações de tamanho de 
 ### 📄 Documentação e Resultados
 
 [![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/SPRINT%203%20DEFINITIVA%20CADEIA%20PRODUTIVA%20AUTOMOTIVA%20GM%2008_06_26%20(1).pdf)
-[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
+[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/Atualizado-%20RELATORIO%20PROJETO%20INTEGRADOR%202%20SEM%20(1).pdf)
 
 ---
 
