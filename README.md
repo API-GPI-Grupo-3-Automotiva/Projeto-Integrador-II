@@ -27,7 +27,25 @@
 Este projeto analisa a maturidade tecnológica e operacional da planta da General Motors (GM) em São José dos Campos (SJC), focando em sua transição para a **Indústria 4.0** sob um modelo de infraestrutura *Brownfield*. 
 
 O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de SJC com as cidades vizinhas da RM Vale) e diagnostica os profundos impactos socioeconômicos gerados pela automação, especialmente na **Gestão de Recursos Humanos**, evidenciando a substituição de postos operacionais braçais por mão de obra técnica especializada.
+
 ---
+
+## Acesso Rápido ao Projeto
+
+Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos do GitHub, o nosso projeto foi estruturado de forma 100% cloud:
+
+### 📊 Visualização e Dados
+[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard_Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
+[![Acessar Dados](https://img.shields.io/badge/Acessar_Dados_Brutos_(CSV)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link)
+
+### 📄 Documentação e Resultados
+
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/SPRINT%203%20DEFINITIVA%20CADEIA%20PRODUTIVA%20AUTOMOTIVA%20GM%2008_06_26%20(1).pdf)
+[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
+
+---
+
 # Equipe do Projeto
 
 | Funçao | Nome | LinkedIn & GitHub |
