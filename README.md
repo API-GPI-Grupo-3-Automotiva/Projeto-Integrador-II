@@ -121,3 +121,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 | Feira de Soluções | 25/06/2026 | a fazer  | [MVP](#)  |
 
 ---
+
+**Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.**
+
+---
