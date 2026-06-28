@@ -33,16 +33,6 @@ O estudo mapeia a estrutura da cadeia automotiva da região (cruzando dados de S
 
 Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos do GitHub, o nosso projeto foi estruturado de forma 100% cloud:
 
-### 📊 Visualização e Dados
-
-[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard_Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
-
-[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard_Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGJjNDNmMzAtMWYwOC00YTgxLTllZDItOTY1ZTNkZGI0Y2QzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
-
-[![Acessar Dados](https://img.shields.io/badge/Acessar_Dados_Brutos_(CSV)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cV4uLIZMjBLkZTRQNO8BGrLNCrwSau4g/view?usp=sharing)
-
-[![Acessar Dados](https://img.shields.io/badge/Acessar_Dados_Brutos_(CSV)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16kBV4Gm0I3XOGCYbKAxBvMyiCnlVgSOo/view?usp=sharing)
-
 ### 📊 Acesso aos Dashboards e Bases de Dados
 
 | Projeto / API | Base de Dados Analisada | Dashboard Interativo | Dados Tratados (CSV) |
