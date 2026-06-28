@@ -122,6 +122,6 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 
 ---
 
-**Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.**
+**“Em Deus nós confiamos. Para o resto, tragam dados.” – W. Edwards Deming**
 
 ---
