@@ -43,6 +43,13 @@ Para garantir uma melhor experiência e contornar as limitações de tamanho de 
 
 [![Acessar Dados](https://img.shields.io/badge/Acessar_Dados_Brutos_(CSV)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16kBV4Gm0I3XOGCYbKAxBvMyiCnlVgSOo/view?usp=sharing)
 
+### 📊 Acesso aos Dashboards e Bases de Dados
+
+| Projeto / API | Base de Dados Analisada | Dashboard Interativo | Dados Tratados (CSV) |
+| :--- | :--- | :---: | :---: |
+| **Cadeia Automotiva** | **RAIS** (Empregos, PDV e Indústria 4.0) | [![Dashboard RAIS](https://img.shields.io/badge/Dashboard_RAIS-003366?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZDU3MGNkZDgtMjRjYS00YzhjLThmZjEtNDg4Zjg3Y2VhY2MzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) | [![CSV RAIS](https://img.shields.io/badge/Baixar_Dados_RAIS.csv-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://drive.google.com/file/d/1cV4uLIZMjBLkZTRQNO8BGrLNCrwSau4g/view?usp=sharing) |
+| **Cadeia Automotiva** | **Comex Stat** (Importação e Exportação) | [![Dashboard Comex](https://img.shields.io/badge/Dashboard_Comex_Stat-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGJjNDNmMzAtMWYwOC00YTgxLTllZDItOTY1ZTNkZGI0Y2QzIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9) | [![CSV Comex](https://img.shields.io/badge/Baixar_Dados_Comex.csv-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://drive.google.com/file/d/16kBV4Gm0I3XOGCYbKAxBvMyiCnlVgSOo/view?usp=sharing) |
+
 ### 📄 Documentação e Resultados
 
 [![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/SPRINT%203%20DEFINITIVA%20CADEIA%20PRODUTIVA%20AUTOMOTIVA%20GM%2008_06_26%20(1).pdf)
