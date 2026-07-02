@@ -105,8 +105,6 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 * **Arquivo:** [Jupyter Notebook](./Docs/DADOS_RAIS.ipynb)
 
-https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/DADOS_RAIS.ipynb
-
 ---
 
 # Visualização Dashboard Cadeia Produtiva Automotiva
@@ -127,5 +125,3 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Do
 ---
 
 **“Em Deus nós confiamos. Para o resto, tragam dados.” – W. Edwards Deming**
-
----
