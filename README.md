@@ -101,9 +101,9 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 <img width="773" height="817" alt="image" src="https://github.com/user-attachments/assets/0edf5335-9ecf-4a18-a592-b676e84b5b2a" />
 
-> LINK
+* **Arquivo: Jupyter Notebook**
 
-* **Arquivo:** [Jupyter Notebook](./Docs/DADOS_RAIS.ipynb)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./Docs/DADOS_RAIS.ipynb)
 
 ---
 
