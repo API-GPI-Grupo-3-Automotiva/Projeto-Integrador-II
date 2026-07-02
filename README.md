@@ -103,6 +103,8 @@ O desenvolvimento dos Dashboards foi dividido em 3 entregas incrementais (MVPs):
 
 > LINK
 
+* **Arquivo:** [Jupyter Notebook](./Docs/DADOS_RAIS.ipynb)
+
 https://github.com/API-GPI-Grupo-3-Automotiva/Projeto-Integrador-II/blob/main/Docs/DADOS_RAIS.ipynb
 
 ---
